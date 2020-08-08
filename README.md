@@ -20,9 +20,9 @@ Stochastic Optimization for Large-scale Optimal Transport [2016NIPS]
 Mapping estimation for discrete optimal transport [2016NIPS]   
 Sinkhorn distances: Lightspeed computation of optimal transport [2013NIPS]  
 Entropic regularization of continuous optimal  
-Smooth and sparse optimal transport [2018ICAIS]  
+Smooth and sparse optimal transport [[2018ICAIS](arxiv.org/pdf/1710.06276)]  
 On the translocation of masses  [2006JMS]  
-
+Forward-Backward Splitting for Optimal Transport based Problems [[2019arXiv](https://arxiv.org/abs/1909.11448)]  
 
 
 ### Wasserstein
