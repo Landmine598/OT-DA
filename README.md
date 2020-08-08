@@ -12,11 +12,11 @@ Large-scale optimal transport map estimation using projection pursuit [[2019NIPS
 Discriminator optimal transport [[2019NIPS](https://papers.nips.cc/paper/8906-discriminator-optimal-transport)]  
 Statistical bounds for entropic optimal transport: sample complexity and the central limit theorem [[2019NIPS](https://papers.nips.cc/paper/8703-statistical-bounds-for-entropic-optimal-transport-sample-complexity-and-the-central-limit-theorem)]  
 Approximate Optimal Transport for Continuous Densities with Copulas [[2019IJCAI](https://www.ijcai.org/proceedings/2019/300)]  
-2018ICML-Large-scale Optimal Transport and Mapping Estimation  
+Large-scale Optimal Transport and Mapping Estimation [2018ICML]  
 Semi-dual Regularized Optimal Transport [[2018SIAM](https://arxiv.org/abs/1811.05527)]  
-2016NIPS-Stochastic Optimization for Large-scale Optimal Transport  
-2016NIPS-mapping-estimation-for-discrete-optimal-transport  
-2013NIPS-Sinkhorn distances: Lightspeed computation of optimal transport  
+Stochastic Optimization for Large-scale Optimal Transport [2016NIPS]  
+Mapping estimation for discrete optimal transport [2016NIPS]   
+Sinkhorn distances: Lightspeed computation of optimal transport [2013NIPS]  
 entropic regularization of continuous optimal  
 
 
@@ -58,23 +58,23 @@ A geometric approach to the transport of discontinuous densities
 ## Applications
 
 ### Domain Adaptation
-2020CVPR-Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation  
-2020CVPR-Enhanced+Transport+Distance+for+Unsupervised+Domain+Adaptation  
+Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [2020CVPR] 
+Enhanced+Transport+Distance+for+Unsupervised+Domain+Adaptation [2020CVPR] 
 Differentially Private Optimal Transport: Application to Domain Adaptation [[2019IJCAI](https://www.ijcai.org/proceedings/2019/395)]    
-2019ICCV-Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation  
-2019CVPR-Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation  
-2019TIP-Locality Preserving Joint Transfer for Domain Adaptation  
-2019AISTATS-Statistical Optimal Transportvia Factored Couplings  
-2019AISTATS-Optimal Transport for Multi-source Domain Adaptation under Target Shift  
-2018IJCAI-Semi supervised optimal transport for heterogeneous domain adaptation  
-2018IEEE会议-Unsupervised Domain Adaptation with Regularized Optimal Transport  
-2018-Feature Selection for Unsupervised Domain Adaptation  
-2018ECCV-DeepJDOT Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation  
-2018CVPR-Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation  
-2018AAAI-Wasserstein Distance Guided Representation Learning for Domain Adaptation  
-2017NIPS-joint distribution optimal transportation for domain adaptation  
-2016PAMI-Optimal Transport for Domain Adaptation  
-2014ICML-Fast computation of wasserstein barycenters  
+Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation [2019ICCV] 
+Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [2019CVPR]  
+Locality Preserving Joint Transfer for Domain Adaptation [2019TIP-]  
+Statistical Optimal Transportvia Factored Couplings [2019AISTATS]  
+Optimal Transport for Multi-source Domain Adaptation under Target Shift [2019AISTATS]  
+Semi supervised optimal transport for heterogeneous domain adaptation [2018IJCAI]  
+Unsupervised Domain Adaptation with Regularized Optimal Transport [2018IEEE会议]  
+Feature Selection for Unsupervised Domain Adaptation [2018]   
+DeepJDOT Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation [2018ECCV]   
+Re-weighted Adversarial Adaptation Network for Unsupervised Domain Adaptation [2018CVPR]   
+Wasserstein Distance Guided Representation Learning for Domain Adaptation [2018AAAI]   
+joint distribution optimal transportation for domain adaptation [2017NIPS]    
+Optimal Transport for Domain Adaptation [2016PAMI]    
+Fast computation of wasserstein barycenters [2014ICML]    
 
 
 ### GAN
