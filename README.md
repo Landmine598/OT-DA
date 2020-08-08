@@ -12,7 +12,7 @@ Discriminator optimal transport[[2019NIPS](https://papers.nips.cc/paper/8906-dis
 Statistical bounds for entropic optimal transport: sample complexity and the central limit theorem[[2019NIPS](https://papers.nips.cc/paper/8703-statistical-bounds-for-entropic-optimal-transport-sample-complexity-and-the-central-limit-theorem)]  
 Approximate Optimal Transport for Continuous Densities with Copulas[[2019IJCAI](https://www.ijcai.org/proceedings/2019/300)]  
 2018ICML-Large-scale Optimal Transport and Mapping Estimation  
-2018SIAM-Semi-dual Regularized Optimal Transport  
+Semi-dual Regularized Optimal Transport[[2018SIAM](https://arxiv.org/abs/1811.05527)]  
 2016NIPS-Stochastic Optimization for Large-scale Optimal Transport  
 2016NIPS-mapping-estimation-for-discrete-optimal-transport  
 2013NIPS-Sinkhorn distances: Lightspeed computation of optimal transport  
