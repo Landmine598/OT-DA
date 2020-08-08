@@ -2,6 +2,8 @@
 
 
 ## Optimal Transport Theories
+Optimal transport in Reproducing Kernel Hilbert Spaces: Theory and applications [2019TPAMI]  
+Fast and flexible inference of joint distributions from their marginals.[ICML2019]  
 On Scalable and Efficient ComputaƟon of Large Scale OpƟmal Transport [[ICML2019]( http://proceedings.mlr.press/v97/xie19a.html)]  
 On Efficient OpƟmal Transport: An Analysis of Greedy and Accelerated Mirror Descent Algorithms [[ICML2019](http://proceedings.mlr.press/v97/lin19a.html)]  
 A Graph Theoretic Additive Approximation of Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/9533-a-graph-theoretic-additive-approximation-of-optimal-transport)]  
@@ -17,7 +19,10 @@ Semi-dual Regularized Optimal Transport [[2018SIAM](https://arxiv.org/abs/1811.0
 Stochastic Optimization for Large-scale Optimal Transport [2016NIPS]  
 Mapping estimation for discrete optimal transport [2016NIPS]   
 Sinkhorn distances: Lightspeed computation of optimal transport [2013NIPS]  
-entropic regularization of continuous optimal  
+Entropic regularization of continuous optimal  
+Smooth and sparse optimal transport [2018ICAIS]  
+On the translocation of masses  [2006JMS]  
+
 
 
 ### Wasserstein
@@ -79,7 +84,7 @@ Fast computation of wasserstein barycenters [2014ICML]
 
 ### GAN
 Three-Player Wasserstein GAN via Amortised Duality [[2019IJCAI](https://www.ijcai.org/proceedings/2019/305)]    
-
+Wasserstein generative adversarial networks [2017ICML]
 
 
 ### Others
