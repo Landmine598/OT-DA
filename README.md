@@ -21,6 +21,8 @@ entropic regularization of continuous optimal
 
 
 ### Wasserstein
+Three-Player Wasserstein GAN via Amortised Duality [[IJCAI2019](https://www.ijcai.org/proceedings/2019/305)]  
+Parallel Wasserstein Generative Adversarial Nets with Multiple Discriminators [[IJCAI2019](https://www.ijcai.org/proceedings/2019/483)]  
 Asymptotic Guarantees for Learning Generative Models with the Sliced-Wasserstein Distance [[NIPS2019](https://papers.nips.cc/paper/8318-asymptotic-guarantees-for-learning-generative-models-with-the-sliced-wasserstein-distance)]  
 Multi-marginal Wasserstein GAN [[NIPS2019](https://papers.nips.cc/paper/8454-multi-marginal-wasserstein-gan)]  
 Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters [[NIPS2019](https://papers.nips.cc/paper/8685-propagating-uncertainty-in-reinforcement-learning-via-wasserstein-barycenters)]  
@@ -34,7 +36,7 @@ Sliced Gromov-Wasserstein [[NIPS2019](https://papers.nips.cc/paper/9615-sliced-g
 Wasserstein Dependency Measure for Representation Learning [[NIPS2019](https://papers.nips.cc/paper/9692-wasserstein-dependency-measure-for-representation-learning)]  
 Accelerated Linear Convergence of StochasƟc Momentum Methods in Wasserstein Distances [[ICML2019](http://proceedings.mlr.press/v97/can19a.html)]  
 A Gradual, Semi-Discrete Approach to GeneraƟve Network Training via Explicit Wasserstein MinimizaƟon [[ICML2019](http://proceedings.mlr.press/v97/chen19h.html)]  
-Wasserstein of Wasserstein Loss for Learning GeneraƟve Models[[ICML2019] (http://proceedings.mlr.press/v97/dukler19a.html)]  
+Wasserstein of Wasserstein Loss for Learning GeneraƟve Models[[ICML2019](http://proceedings.mlr.press/v97/dukler19a.html)]  
 On the Complexity of ApproximaƟng Wasserstein Barycenters [[ICML2019](http://proceedings.mlr.press/v97/kroshnin19a.html)]  
 Understanding MCMC Dynamics as Flows on the Wasserstein Space [[ICML2019](http://proceedings.mlr.press/v97/liu19j.html)]  
 Sliced-Wasserstein Flows: Nonparametric GeneraƟve Modeling via OpƟmal Transport and Diffusions [[ICML2019](http://proceedings.mlr.press/v97/liutkus19a.html)]  
