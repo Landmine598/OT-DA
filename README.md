@@ -3,7 +3,7 @@
 
 ## Optimal Transport Theories
 
-A Graph Theoretic Additive Approximation of Optimal Transport[2019NIPS](https://papers.nips.cc/paper/9533-a-graph-theoretic-additive-approximation-of-optimal-transport)  
+A Graph Theoretic Additive Approximation of Optimal Transport[[2019NIPS](https://papers.nips.cc/paper/9533-a-graph-theoretic-additive-approximation-of-optimal-transport)]  
 Hierarchical Optimal Transport for Multimodal Distribution Alignment[2019NIPS](https://papers.nips.cc/paper/9501-hierarchical-optimal-transport-for-multimodal-distribution-alignment)  
 Screening Sinkhorn Algorithm for Regularized Optimal Transport[2019NIPS](https://papers.nips.cc/paper/9386-screening-sinkhorn-algorithm-for-regularized-optimal-transport)  
 A Direct tilde{O}(1/epsilon) Iteration Parallel Algorithm for Optimal Transport[2019NIPS](https://papers.nips.cc/paper/9313-a-direct-tildeo1epsilon-iteration-parallel-algorithm-for-optimal-transport)  
