@@ -82,7 +82,7 @@ Three-Player Wasserstein GAN via Amortised Duality [[2019IJCAI](https://www.ijca
 
 
 
-### Other Applications
+### Others
 Improving Cross-lingual Entity Alignment via Optimal Transport [[2019IJCAI](https://www.ijcai.org/proceedings/2019/448)]  
 Hierarchical Optimal Transport for Document Representation [[2019NIPS](https://papers.nips.cc/paper/8438-hierarchical-optimal-transport-for-document-representation)]  
 Differentiable Ranking and Sorting using Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/8910-differentiable-ranking-and-sorting-using-optimal-transport)]  
