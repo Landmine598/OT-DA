@@ -26,6 +26,8 @@ Forward-Backward Splitting for Optimal Transport based Problems [[2019arXiv](htt
 
 
 ### Wasserstein
+Barycenters of Natural Images–Constrained Wasserstein Barycenters for Image Morphing [CVPR2020]   
+Severity-Aware Semantic Segmentation with Reinforced Wasserstein Training [CVPR2020]  
 Three-Player Wasserstein GAN via Amortised Duality [[IJCAI2019](https://www.ijcai.org/proceedings/2019/305)]  
 Parallel Wasserstein Generative Adversarial Nets with Multiple Discriminators [[IJCAI2019](https://www.ijcai.org/proceedings/2019/483)]  
 Asymptotic Guarantees for Learning Generative Models with the Sliced-Wasserstein Distance [[NIPS2019](https://papers.nips.cc/paper/8318-asymptotic-guarantees-for-learning-generative-models-with-the-sliced-wasserstein-distance)]  
@@ -97,6 +99,6 @@ Alleviating Label Switching with Optimal Transport [[2019NIPS](https://papers.ni
 GOT: An Optimal Transport framework for Graph comparison [[2019NIPS](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison)]  
 Obtaining Fairness using OpƟmal Transport Theory [[ICML2019](http://proceedings.mlr.press/v97/gordaliza19a.html)]  
 OpƟmal Transport for structured data with applicaƟon on graphs [[ICML2019](http://proceedings.mlr.press/v97/titouan19a.html)]  
-
-
+Synchronizing Probability Measures on Rotations via Optimal Transport [2020CVPR]  
+Semantic Correspondence as an Optimal Transport Problem [CVPR2020]  
 
