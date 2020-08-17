@@ -4,8 +4,8 @@
 ## Optimal Transport Theories
 Optimal transport in Reproducing Kernel Hilbert Spaces: Theory and applications [2019TPAMI]  
 Fast and flexible inference of joint distributions from their marginals.[ICML2019]  
-On Scalable and Efficient ComputaƟon of Large Scale OpƟmal Transport [[ICML2019]( http://proceedings.mlr.press/v97/xie19a.html)]  
-On Efficient OpƟmal Transport: An Analysis of Greedy and Accelerated Mirror Descent Algorithms [[ICML2019](http://proceedings.mlr.press/v97/lin19a.html)]  
+On Scalable and Efficient Computation of Large Scale Optimal Transport [[ICML2019]( http://proceedings.mlr.press/v97/xie19a.html)]  
+On Efficient Optimal Transport: An Analysis of Greedy and Accelerated Mirror Descent Algorithms [[ICML2019](http://proceedings.mlr.press/v97/lin19a.html)]  
 A Graph Theoretic Additive Approximation of Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/9533-a-graph-theoretic-additive-approximation-of-optimal-transport)]  
 Hierarchical Optimal Transport for Multimodal Distribution Alignment [[2019NIPS](https://papers.nips.cc/paper/9501-hierarchical-optimal-transport-for-multimodal-distribution-alignment)]  
 Screening Sinkhorn Algorithm for Regularized Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/9386-screening-sinkhorn-algorithm-for-regularized-optimal-transport)]  
@@ -97,8 +97,8 @@ Lower Bounds on Adversarial Robustness from Optimal Transport [[2019NIPS](https:
 Solving graph compression via optimal transport [[2019NIPS](https://papers.nips.cc/paper/9014-solving-graph-compression-via-optimal-transport)]  
 Alleviating Label Switching with Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/9515-alleviating-label-switching-with-optimal-transport)]  
 GOT: An Optimal Transport framework for Graph comparison [[2019NIPS](https://papers.nips.cc/paper/9539-got-an-optimal-transport-framework-for-graph-comparison)]  
-Obtaining Fairness using OpƟmal Transport Theory [[ICML2019](http://proceedings.mlr.press/v97/gordaliza19a.html)]  
-OpƟmal Transport for structured data with applicaƟon on graphs [[ICML2019](http://proceedings.mlr.press/v97/titouan19a.html)]  
+Obtaining Fairness using Optimal Transport Theory [[ICML2019](http://proceedings.mlr.press/v97/gordaliza19a.html)]  
+Optimal Transport for structured data with application on graphs [[ICML2019](http://proceedings.mlr.press/v97/titouan19a.html)]  
 Synchronizing Probability Measures on Rotations via Optimal Transport [2020CVPR]  
 Semantic Correspondence as an Optimal Transport Problem [CVPR2020]  
 
