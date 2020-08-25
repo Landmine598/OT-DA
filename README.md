@@ -26,6 +26,8 @@ Forward-Backward Splitting for Optimal Transport based Problems [[2019arXiv](htt
 
 
 ### Wasserstein
+Pattern-Based Music Generation with Wasserstein Autoencoders and PRC Descriptions [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0751.pdf)]  
+Unsupervised Multilingual Alignment using Wasserstein Barycenter [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0512.pdf)]  
 Barycenters of Natural Images–Constrained Wasserstein Barycenters for Image Morphing [CVPR2020]   
 Severity-Aware Semantic Segmentation with Reinforced Wasserstein Training [CVPR2020]  
 Three-Player Wasserstein GAN via Amortised Duality [[IJCAI2019](https://www.ijcai.org/proceedings/2019/305)]  
@@ -65,6 +67,9 @@ A geometric approach to the transport of discontinuous densities
 ## Applications
 
 ### Domain Adaptation
+Evaluating Natural Language Generation via Unbalanced Optimal Transport [[IJCAI2020](https://www.ijcai.org/Proceedings/2020/0516.pdf)]  
+Metric Learning in Optimal Transport for Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0299.pdf)]  
+Joint Partial Optimal Transport for Open Set Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0352.pdf)]  
 Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [2020CVPR]   
 Enhanced Transport Distance for Unsupervised Domain Adaptation [2020CVPR]  
 Differentially Private Optimal Transport: Application to Domain Adaptation [[2019IJCAI](https://www.ijcai.org/proceedings/2019/395)]     
