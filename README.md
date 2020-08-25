@@ -67,7 +67,6 @@ A geometric approach to the transport of discontinuous densities
 ## Applications
 
 ### Domain Adaptation
-Evaluating Natural Language Generation via Unbalanced Optimal Transport [[IJCAI2020](https://www.ijcai.org/Proceedings/2020/0516.pdf)]  
 Metric Learning in Optimal Transport for Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0299.pdf)]  
 Joint Partial Optimal Transport for Open Set Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0352.pdf)]  
 Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [2020CVPR]   
@@ -95,6 +94,7 @@ Wasserstein generative adversarial networks [2017ICML]
 
 
 ### Others
+Evaluating Natural Language Generation via Unbalanced Optimal Transport [[IJCAI2020](https://www.ijcai.org/Proceedings/2020/0516.pdf)]  
 Improving Cross-lingual Entity Alignment via Optimal Transport [[2019IJCAI](https://www.ijcai.org/proceedings/2019/448)]  
 Hierarchical Optimal Transport for Document Representation [[2019NIPS](https://papers.nips.cc/paper/8438-hierarchical-optimal-transport-for-document-representation)]  
 Differentiable Ranking and Sorting using Optimal Transport [[2019NIPS](https://papers.nips.cc/paper/8910-differentiable-ranking-and-sorting-using-optimal-transport)]  
