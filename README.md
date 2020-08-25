@@ -72,7 +72,7 @@ Joint Partial Optimal Transport for Open Set Domain Adaptation [[2020IJCAI](http
 Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [2020CVPR]   
 Enhanced Transport Distance for Unsupervised Domain Adaptation [2020CVPR]  
 Differentially Private Optimal Transport: Application to Domain Adaptation [[2019IJCAI](https://www.ijcai.org/proceedings/2019/395)]     
-Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation [2019ICCV] 
+Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation [2019ICCV]  
 Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation [2019CVPR]  
 Locality Preserving Joint Transfer for Domain Adaptation [2019TIP-]  
 Statistical Optimal Transportvia Factored Couplings [2019AISTATS]  
