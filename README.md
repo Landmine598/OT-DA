@@ -67,7 +67,8 @@ A geometric approach to the transport of discontinuous densities
 ## Applications
 
 ### Domain Adaptation
-Metric Learning in Optimal Transport for Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0299.pdf)]  
+Metric Learning in Optimal Transport for Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0299.pdf)][[pytorch](
+https://github.com/Hv0nnus/MLOT)]  
 Joint Partial Optimal Transport for Open Set Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0352.pdf)]  
 Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [2020CVPR]   
 Enhanced Transport Distance for Unsupervised Domain Adaptation [2020CVPR]  
