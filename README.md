@@ -2,6 +2,10 @@
 
 
 ## Optimal Transport Theories
+Ae-OT: a New Generative Model based on Extended Semi-discrete Optimal transport. ICLR 2020  
+Sliced optimal transport sampling. ACM Trans. Graph. 39(4): 99 (2020)  
+A General Approach to Fairness with Optimal Transport. AAAI 2020: 3633-3640  
+Optimal Transport in Reproducing Kernel Hilbert Spaces: Theory and Applications. IEEE Trans. Pattern Anal. Mach. Intell. 42(7): 1741-1754 (2020)  
 Optimal transport in Reproducing Kernel Hilbert Spaces: Theory and applications [2019TPAMI]  
 Fast and flexible inference of joint distributions from their marginals.[ICML2019]  
 On Scalable and Efficient Computation of Large Scale Optimal Transport [[ICML2019]( http://proceedings.mlr.press/v97/xie19a.html)]  
@@ -67,6 +71,7 @@ A geometric approach to the transport of discontinuous densities
 ## Applications
 
 ### Domain Adaptation
+Multi-source Domain Adaptation via Weighted Joint Distributions Optimal Transport. CoRR abs/2006.12938 (2020)  
 Metric Learning in Optimal Transport for Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0299.pdf)][[pytorch](
 https://github.com/Hv0nnus/MLOT)]  
 Joint Partial Optimal Transport for Open Set Domain Adaptation [[2020IJCAI](https://www.ijcai.org/Proceedings/2020/0352.pdf)]  
@@ -107,4 +112,26 @@ Obtaining Fairness using Optimal Transport Theory [[ICML2019](http://proceedings
 Optimal Transport for structured data with application on graphs [[ICML2019](http://proceedings.mlr.press/v97/titouan19a.html)]  
 Synchronizing Probability Measures on Rotations via Optimal Transport [2020CVPR]  
 Semantic Correspondence as an Optimal Transport Problem [CVPR2020]  
+遥感An Entropic Optimal Transport loss for learning deep neural networks under label noise in remote sensing images. Comput. Vis. Image Underst. 191: 102863 (2020)  
+Unsupervised Domain Adaptation With Optimal Transport in Multi-Site Segmentation of Multiple Sclerosis Lesions From MRI Data. Frontiers Comput. Neurosci. 14: 19 (2020)  
+Weakly supervised cross-domain alignment with optimal transport. CoRR abs/2008.06597 (2020)  
+Domain Generalization with Optimal Transport and Metric Learning. CoRR abs/2007.10573 (2020)  
+Sequence Generation with Optimal-Transport-Enhanced Reinforcement Learning. AAAI 2020: 7512-7520  
+Optimal Feature Transport for Cross-View Image Geo-Localization. AAAI 2020: 11990-11997
+Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport. ACL 2020: 5609-5626  
+Ae-OT: a New Generative Model based on Extended Semi-discrete Optimal transport. ICLR 2020  
+ 
+
+
+
+2020AISTATS
+Context Mover's Distance & Barycenters: Optimal Transport of Contexts for Building Representations  
+Utility/Privacy Trade-off through the lens of Optimal Transport.   
+Regularity as Regularization: Smooth and Strongly Convex Brenier Potentials in Optimal Transport  
+Unsupervised Hierarchy Matching with Optimal Transport over Hyperbolic Spaces  
+Spatio-temporal alignments: Optimal transport through space and time  
+Fast Algorithms for Computational Optimal Transport and Wasserstein Barycenter.  
+Quantitative stability of optimal transport maps and linearization of the 2-Wasserstein space  
+Gaussian-Smoothed Optimal Transport: Metric Structure and Statistical Efficiency
+
 
